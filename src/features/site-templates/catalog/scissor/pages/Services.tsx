@@ -1,0 +1,10 @@
+'use client'
+import type { SiteTemplatePageProps } from '../../../types'
+import { copy,image } from '../config'
+import { Shell } from '../components/Layout'
+import { Hero } from '../components/Hero'
+import { Services,FAQ } from '../components/Services'
+import { Visit } from '../components/Studio'
+import { Booking } from '../components/Booking'
+import { Heading,Reveal } from '../components/Primitives'
+export default function ServicesPage({locale='zh',basePath}:SiteTemplatePageProps) {return <Shell locale={locale} basePath={basePath}><Hero locale={locale} basePath={basePath} photo={image('gxo3K7j0zroNKWnfR7xDEcM')} label={copy('服务','Services')} title={copy('每项服务\n公平定价','Every service, priced fairly.')} text={copy('为所有人准备的一份菜单。按服务与时间定价，开始前清楚确认一切。','One menu for everyone. Prices are set by the service and the time it takes, and your stylist confirms everything at consultation.')}/><Services locale={locale} basePath={basePath}/><section className="sc-section"><Heading number="03" locale={locale} label={copy('附加护理','Add-ons')} title={copy('多一点 贴心照顾','Make it a little extra.')} text={copy('可添加至剪发或染发项目，预约或沟通时告诉我们即可。','Add any of these to a cut or colour. Just mention it when you book or at your consultation.')}/><div className="sc-addons">{[[copy('头皮按摩','Scalp massage'),15,10],[copy('光泽补色','Gloss top up'),25,15],[copy('胡须油养护','Beard oil finish'),10,5],[copy('眉形整理','Brow tidy'),12,10],[copy('深层滋养','Deep condition'),20,15],[copy('雕刻线条','Hair design'),15,15]].map(([title,price,time],i)=><Reveal key={i}><h3>{typeof title==='object'?title[locale]:title}</h3><p>+ ${String(price)} · {String(time)} {locale==='zh'?'分钟':'min'}</p></Reveal>)}</div></section><Visit locale={locale}/><FAQ locale={locale}/><Booking locale={locale} number="06"/></Shell> }

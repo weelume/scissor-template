@@ -1,0 +1,165 @@
+{
+  "checkedAt": "2026-11-02T08:29:22.975Z",
+  "browser": "内置浏览器",
+  "viewports": [
+    {
+      "device": "desktop",
+      "page": "home",
+      "content": 1430,
+      "height": 1000,
+      "scroll": 1430,
+      "titleStyle": "opacity: 1; transform: none;",
+      "viewport": 1440
+    },
+    {
+      "device": "desktop",
+      "page": "services",
+      "content": 1430,
+      "height": 1000,
+      "scroll": 1430,
+      "titleStyle": "opacity:0;transform:translateY(110%)",
+      "viewport": 1440
+    },
+    {
+      "device": "desktop",
+      "page": "stylists",
+      "content": 1430,
+      "height": 1000,
+      "scroll": 1430,
+      "titleStyle": "opacity: 0; transform: translateY(0.04723%);",
+      "viewport": 1440
+    },
+    {
+      "device": "desktop",
+      "page": "contact",
+      "content": 1430,
+      "height": 1000,
+      "scroll": 1430,
+      "titleStyle": "opacity: 0; transform: translateY(0.03047%);",
+      "viewport": 1440
+    },
+    {
+      "device": "tablet",
+      "page": "home",
+      "content": 824,
+      "height": 1180,
+      "scroll": 824,
+      "titleStyle": "opacity: 0; transform: translateY(0.358%);",
+      "viewport": 834
+    },
+    {
+      "device": "tablet",
+      "page": "services",
+      "content": 824,
+      "height": 1180,
+      "scroll": 824,
+      "titleStyle": "opacity:0;transform:translateY(110%)",
+      "viewport": 834
+    },
+    {
+      "device": "tablet",
+      "page": "stylists",
+      "content": 824,
+      "height": 1180,
+      "scroll": 824,
+      "titleStyle": "opacity: 0; transform: translateY(0.03186%);",
+      "viewport": 834
+    },
+    {
+      "device": "tablet",
+      "page": "contact",
+      "content": 824,
+      "height": 1180,
+      "scroll": 824,
+      "titleStyle": "opacity: 0; transform: translateY(0.01261%);",
+      "viewport": 834
+    },
+    {
+      "device": "mobile",
+      "page": "home",
+      "content": 380,
+      "height": 844,
+      "scroll": 380,
+      "titleStyle": "opacity:0;transform:translateY(110%)",
+      "viewport": 390
+    },
+    {
+      "device": "mobile",
+      "page": "services",
+      "content": 380,
+      "height": 844,
+      "scroll": 380,
+      "titleStyle": "opacity:0;transform:translateY(110%)",
+      "viewport": 390
+    },
+    {
+      "device": "mobile",
+      "page": "stylists",
+      "content": 380,
+      "height": 844,
+      "scroll": 380,
+      "titleStyle": "opacity: 0; transform: translateY(0.02025%);",
+      "viewport": 390
+    },
+    {
+      "device": "mobile",
+      "page": "contact",
+      "content": 380,
+      "height": 844,
+      "scroll": 380,
+      "titleStyle": "opacity: 0; transform: translateY(0.01261%);",
+      "viewport": 390
+    }
+  ],
+  "interactions": [
+    {
+      "device": "desktop",
+      "faqExpanded": "true",
+      "sliderAtEnd": "100",
+      "reviewSelected": "true"
+    },
+    {
+      "device": "tablet",
+      "faqExpanded": "true",
+      "sliderAtEnd": "100",
+      "reviewSelected": "true"
+    },
+    {
+      "device": "mobile",
+      "faqExpanded": "true",
+      "sliderAtEnd": "100",
+      "reviewSelected": "true"
+    }
+  ],
+  "narrow": {
+    "viewport": 320,
+    "content": 310,
+    "scroll": 310
+  },
+  "menu": {
+    "openOverflow": "hidden",
+    "escapeOverflow": "",
+    "restored": true
+  },
+  "language": {
+    "actual": "/en/contact?campaign=demo#booking",
+    "lang": "en"
+  },
+  "comparisonDrag": {
+    "from": 50,
+    "to": 77
+  },
+  "form": "本地校验通过，明确未发送、未保存、未创建预约。",
+  "galleryFinal": {
+    "viewport": 320,
+    "cardWidth": 176,
+    "cardHeight": 242,
+    "spacing": 159.5,
+    "observedTransform": "translateX(159.5px) translateY(4.95px) scale(0.89) rotate(2.4deg)"
+  },
+  "limitations": [
+    "全部动效的三端逐帧量化对比未完成。",
+    "未实机切换系统减少动态效果设置。",
+    "默认截图为中文，英文路由及语言切换另行验证。"
+  ]
+}

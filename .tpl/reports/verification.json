@@ -1,0 +1,85 @@
+{
+  "$schema": "../schemas/verification.schema.json",
+  "format": "git-template-verification",
+  "formatVersion": "0.2.0",
+  "status": "passed",
+  "checkedAt": "2026-11-02T08:29:23.777Z",
+  "sourceCommit": null,
+  "sourceDigest": "03595af6f38f49f4d6b60294b254167d869f5875531edfe83db3d29bf545b32e",
+  "environment": {
+    "platform": "linux (local WSL, Linux filesystem)",
+    "arch": "x64",
+    "node": "24.16.0",
+    "packageManager": "pnpm@9.15.4",
+    "cleanDirectory": true,
+    "localGitClone": false
+  },
+  "checks": [
+    {
+      "id": "typecheck",
+      "cwd": ".",
+      "argv": [
+        "pnpm",
+        "run",
+        "typecheck"
+      ],
+      "status": "passed",
+      "exitCode": 0,
+      "startedAt": "2026-11-02T08:23:18.525Z",
+      "finishedAt": "2026-11-02T08:23:20.038Z"
+    },
+    {
+      "id": "lint",
+      "cwd": ".",
+      "argv": [
+        "pnpm",
+        "run",
+        "lint"
+      ],
+      "status": "passed",
+      "exitCode": 0,
+      "startedAt": "2026-11-02T08:23:20.040Z",
+      "finishedAt": "2026-11-02T08:23:21.930Z"
+    },
+    {
+      "id": "build",
+      "cwd": ".",
+      "argv": [
+        "pnpm",
+        "run",
+        "build"
+      ],
+      "status": "passed",
+      "exitCode": 0,
+      "startedAt": "2026-11-02T08:23:21.931Z",
+      "finishedAt": "2026-11-02T08:23:37.642Z"
+    },
+    {
+      "id": "test",
+      "cwd": ".",
+      "argv": [
+        "pnpm",
+        "run",
+        "test"
+      ],
+      "status": "passed",
+      "exitCode": 0,
+      "startedAt": "2026-11-02T08:23:37.642Z",
+      "finishedAt": "2026-11-02T08:23:38.736Z"
+    }
+  ],
+  "services": [
+    {
+      "id": "web",
+      "status": "passed",
+      "stopped": true,
+      "checkedAt": "2026-11-02T08:29:23.777Z"
+    }
+  ],
+  "limitations": [
+    "所有构建在本地 WSL Linux 文件系统完成；本报告不表示已部署。",
+    "浏览器主要交互及三端截图通过，但未进行全部动效的逐帧量化比较。",
+    "减少动态效果分支已实现，未实机切换系统设置。",
+    "独立验收目录为源码同步副本，未声称远端克隆验收。"
+  ]
+}

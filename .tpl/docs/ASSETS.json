@@ -1,0 +1,873 @@
+{
+  "reference": "https://scissor.framer.website/",
+  "license": "用户于 2026-11-02 声明确认已有模板与素材再分发授权；素材权利仍归原作者，不因本工程而转授额外权利。",
+  "assets": [
+    {
+      "file": "Lbs1fOGylFeUjTCOXJbuj237LU.png",
+      "url": "https://framerusercontent.com/images/Lbs1fOGylFeUjTCOXJbuj237LU.png",
+      "alt": "Scissor",
+      "pages": [
+        "about",
+        "contact",
+        "home",
+        "privacy",
+        "services",
+        "stylists-ava-laurent",
+        "stylists-jonah-kim",
+        "stylists-marcus-reid",
+        "stylists-priya-shah",
+        "stylists",
+        "terms"
+      ],
+      "downloadUrl": "https://framerusercontent.com/images/Lbs1fOGylFeUjTCOXJbuj237LU.png?scale-down-to=1600",
+      "sha256": "934cd685b30cd43116f6c1a16b9d6ac64a0fdd10e4c250bc7420b507739bdab4",
+      "bytes": 19873
+    },
+    {
+      "file": "7l4VARrSeo2GvadbJrYJEaZpwI.webp",
+      "url": "https://framerusercontent.com/images/7l4VARrSeo2GvadbJrYJEaZpwI.webp",
+      "alt": "Clients and stylists sharing the open floor at Scissor in warm afternoon light",
+      "pages": [
+        "about"
+      ],
+      "downloadUrl": "https://framerusercontent.com/images/7l4VARrSeo2GvadbJrYJEaZpwI.webp?scale-down-to=1600",
+      "sha256": "c6cd9cd1ff3a665d8ee00a3fa976e67efacc0f92f359f1d935a5be86b516f3a6",
+      "bytes": 197326
+    },
+    {
+      "file": "0nAz6vDYi06OOte34a4To6HjeGM.webp",
+      "url": "https://framerusercontent.com/images/0nAz6vDYi06OOte34a4To6HjeGM.webp",
+      "alt": "Nadia Clarke, founder of Scissor, at the studio",
+      "pages": [
+        "about"
+      ],
+      "downloadUrl": "https://framerusercontent.com/images/0nAz6vDYi06OOte34a4To6HjeGM.webp?scale-down-to=1600",
+      "sha256": "b36cb5d9b7fa2825b6a615d2eefdbbc62b14d9ec96c9a146f30f6fc11b82643e",
+      "bytes": 116734
+    },
+    {
+      "file": "OAKnaCUpPQEN1CiBIgrJB0YLTeg.webp",
+      "url": "https://framerusercontent.com/images/OAKnaCUpPQEN1CiBIgrJB0YLTeg.webp",
+      "alt": "The barber floor at Scissor with black chairs facing backlit arched mirrors",
+      "pages": [
+        "about"
+      ],
+      "downloadUrl": "https://framerusercontent.com/images/OAKnaCUpPQEN1CiBIgrJB0YLTeg.webp?scale-down-to=1600",
+      "sha256": "d777e78033bf5b351c235833b21a6f5c0014059dea778fb112ad2bfc359d067e",
+      "bytes": 186120
+    },
+    {
+      "file": "cW79BDa4qsSNk8g3loH9zJOjsKY.webp",
+      "url": "https://framerusercontent.com/images/cW79BDa4qsSNk8g3loH9zJOjsKY.webp",
+      "alt": "The colour bar with mixing bowls, brushes and foils on a stone topped oak counter",
+      "pages": [
+        "about"
+      ],
+      "downloadUrl": "https://framerusercontent.com/images/cW79BDa4qsSNk8g3loH9zJOjsKY.webp?scale-down-to=1600",
+      "sha256": "63191f92bd61a50bd1d011934ab3dcbd955a521db81f70df643f0965205d57ee",
+      "bytes": 151624
+    },
+    {
+      "file": "cUZEVlDkpMBRI9WgB1sAarP1gyk.webp",
+      "url": "https://framerusercontent.com/images/cUZEVlDkpMBRI9WgB1sAarP1gyk.webp",
+      "alt": "The wash lounge with black basins, rolled towels and an olive tree",
+      "pages": [
+        "about"
+      ],
+      "downloadUrl": "https://framerusercontent.com/images/cUZEVlDkpMBRI9WgB1sAarP1gyk.webp?scale-down-to=1600",
+      "sha256": "46b6447e2e9dcbf023740912a2d0877fbcf59bed2c069137592bdf9dfba1800e",
+      "bytes": 195838
+    },
+    {
+      "file": "aN8A7Z6dV7f4KlQGoIZOMLUHg.webp",
+      "url": "https://framerusercontent.com/images/aN8A7Z6dV7f4KlQGoIZOMLUHg.webp",
+      "alt": "Backlit oak shelves with amber hair care bottles and jars",
+      "pages": [
+        "about"
+      ],
+      "downloadUrl": "https://framerusercontent.com/images/aN8A7Z6dV7f4KlQGoIZOMLUHg.webp?scale-down-to=1600",
+      "sha256": "6ba23b12946780f06cebc7f8cc7647e7dff629e1177cb7161a5464ce0cbc5176",
+      "bytes": 222590
+    },
+    {
+      "file": "d5wwyuEfCBDSYF22yj81MN79qsc.webp",
+      "url": "https://framerusercontent.com/images/d5wwyuEfCBDSYF22yj81MN79qsc.webp",
+      "alt": "The reception with a fluted black desk, brass pendant lights and a curved lounge sofa",
+      "pages": [
+        "about"
+      ],
+      "downloadUrl": "https://framerusercontent.com/images/d5wwyuEfCBDSYF22yj81MN79qsc.webp?scale-down-to=1600",
+      "sha256": "994f5a5aa0d0f1cf8118101130031ad5d06141b3407b404adeaae2bf7de002a6",
+      "bytes": 172822
+    },
+    {
+      "file": "J1a65UDVyNd0DcDwCEKcNA3Bw8Y.webp",
+      "url": "https://framerusercontent.com/images/J1a65UDVyNd0DcDwCEKcNA3Bw8Y.webp",
+      "alt": "Priya Shah, senior stylist at Scissor",
+      "pages": [
+        "about",
+        "home",
+        "stylists-ava-laurent",
+        "stylists-jonah-kim",
+        "stylists-marcus-reid",
+        "stylists-priya-shah",
+        "stylists"
+      ],
+      "downloadUrl": "https://framerusercontent.com/images/J1a65UDVyNd0DcDwCEKcNA3Bw8Y.webp?scale-down-to=1600",
+      "sha256": "5f51a89c8bbc7a88d3dab0c21a9498ff17ced677f10dd060109f8b1d4c39043d",
+      "bytes": 131928
+    },
+    {
+      "file": "0jTlQ3cZIyrt7N8Jj8cofJUU.webp",
+      "url": "https://framerusercontent.com/images/0jTlQ3cZIyrt7N8Jj8cofJUU.webp",
+      "alt": "Jonah Kim, barber and stylist at Scissor",
+      "pages": [
+        "about",
+        "home",
+        "stylists-ava-laurent",
+        "stylists-jonah-kim",
+        "stylists-marcus-reid",
+        "stylists-priya-shah",
+        "stylists"
+      ],
+      "downloadUrl": "https://framerusercontent.com/images/0jTlQ3cZIyrt7N8Jj8cofJUU.webp?scale-down-to=1600",
+      "sha256": "919d690dc78733eb9afecc75f391b95fe1244c63ee9d2b0010a421b95b26971e",
+      "bytes": 127734
+    },
+    {
+      "file": "D1z1kmNYONWPNcDZHXMsEkSwerw.webp",
+      "url": "https://framerusercontent.com/images/D1z1kmNYONWPNcDZHXMsEkSwerw.webp",
+      "alt": "Ava Laurent, colour director at Scissor",
+      "pages": [
+        "about",
+        "home",
+        "stylists-ava-laurent",
+        "stylists-jonah-kim",
+        "stylists-marcus-reid",
+        "stylists-priya-shah",
+        "stylists"
+      ],
+      "downloadUrl": "https://framerusercontent.com/images/D1z1kmNYONWPNcDZHXMsEkSwerw.webp?scale-down-to=1600",
+      "sha256": "36b20ca04c981c50248a4f0897b5caaf0925d3cea0a8ef18bc9b89174431fd18",
+      "bytes": 144360
+    },
+    {
+      "file": "nFNWLkWHydVICXsPR31XAtfaRDc.webp",
+      "url": "https://framerusercontent.com/images/nFNWLkWHydVICXsPR31XAtfaRDc.webp",
+      "alt": "Marcus Reid, senior barber at Scissor",
+      "pages": [
+        "about",
+        "home",
+        "stylists-ava-laurent",
+        "stylists-jonah-kim",
+        "stylists-marcus-reid",
+        "stylists-priya-shah",
+        "stylists"
+      ],
+      "downloadUrl": "https://framerusercontent.com/images/nFNWLkWHydVICXsPR31XAtfaRDc.webp?scale-down-to=1600",
+      "sha256": "6cb8bd8e155eb8ac2f71a5c9ea5046ae37ea948b41a0c21564dbd432d10783d9",
+      "bytes": 188258
+    },
+    {
+      "file": "Ct04JZyxPv7ZviFzMl4dl72uZ0.png",
+      "url": "https://framerusercontent.com/images/Ct04JZyxPv7ZviFzMl4dl72uZ0.png",
+      "alt": null,
+      "pages": [
+        "about",
+        "contact",
+        "home",
+        "privacy",
+        "services",
+        "stylists-ava-laurent",
+        "stylists-jonah-kim",
+        "stylists-marcus-reid",
+        "stylists-priya-shah",
+        "stylists",
+        "terms"
+      ],
+      "downloadUrl": "https://framerusercontent.com/images/Ct04JZyxPv7ZviFzMl4dl72uZ0.png?scale-down-to=1600",
+      "sha256": "cf6b01ee7f64352cc46f9832c839ccba20582b5eb4cc22bbacab615163fd5261",
+      "bytes": 14447
+    },
+    {
+      "file": "azOkrWuibKB7DiRkNnCqPvpYvc.webp",
+      "url": "https://framerusercontent.com/images/azOkrWuibKB7DiRkNnCqPvpYvc.webp",
+      "alt": "An empty styling chair facing a backlit arched mirror in soft morning light at Scissor",
+      "pages": [
+        "contact"
+      ],
+      "downloadUrl": "https://framerusercontent.com/images/azOkrWuibKB7DiRkNnCqPvpYvc.webp?scale-down-to=1600",
+      "sha256": "a5703b8f5e904ae9102c8293f9be5f574949323067e8473eb18bad5e45a5d00b",
+      "bytes": 199612
+    },
+    {
+      "file": "6qFMrA7vReWmLSggr88d46kY9U.webp",
+      "url": "https://framerusercontent.com/images/6qFMrA7vReWmLSggr88d46kY9U.webp",
+      "alt": "Barber giving a young man a skin fade in a warm salon with backlit arched mirrors",
+      "pages": [
+        "home"
+      ],
+      "downloadUrl": "https://framerusercontent.com/images/6qFMrA7vReWmLSggr88d46kY9U.webp?scale-down-to=1600",
+      "sha256": "95979d340d3b6412c193c8fe29828139b1c092b9ac12ff48795f278852041ee5",
+      "bytes": 165584
+    },
+    {
+      "file": "wylMQVOmaT6gfD7gGw6c2NuZ7CM.webp",
+      "url": "https://framerusercontent.com/images/wylMQVOmaT6gfD7gGw6c2NuZ7CM.webp",
+      "alt": "Client with a fresh skin fade and shaped beard",
+      "pages": [
+        "home"
+      ],
+      "downloadUrl": "https://framerusercontent.com/images/wylMQVOmaT6gfD7gGw6c2NuZ7CM.webp?scale-down-to=1600",
+      "sha256": "f4c86e796ea85592e033c29f93809ad10ebddb9f46688dd9b9af1b507ea45f61",
+      "bytes": 134480
+    },
+    {
+      "file": "Xyk1fvbk0SGM0pIRxA5shCNaEEE.webp",
+      "url": "https://framerusercontent.com/images/Xyk1fvbk0SGM0pIRxA5shCNaEEE.webp",
+      "alt": "Barber finishing a skin fade on a man with a short beard",
+      "pages": [
+        "home"
+      ],
+      "downloadUrl": "https://framerusercontent.com/images/Xyk1fvbk0SGM0pIRxA5shCNaEEE.webp?scale-down-to=1600",
+      "sha256": "37943b2eb59bc6bd433a3494fa878fc8a79ba1f6a46b776724b58ec4ec97ec6d",
+      "bytes": 176656
+    },
+    {
+      "file": "UGnEaJFDrCNOnovrBQPNskuXZBA.webp",
+      "url": "https://framerusercontent.com/images/UGnEaJFDrCNOnovrBQPNskuXZBA.webp",
+      "alt": "Stylist shaping defined natural curls on a smiling woman",
+      "pages": [
+        "home"
+      ],
+      "downloadUrl": "https://framerusercontent.com/images/UGnEaJFDrCNOnovrBQPNskuXZBA.webp?scale-down-to=1600",
+      "sha256": "35afd1f35830d23d28b1f88794fb77f4ddd504ec40f7eb9a1fbb6bbd5e2f1ef5",
+      "bytes": 240676
+    },
+    {
+      "file": "bKYU8vb4On2bE0nYEW8bVK3O0.webp",
+      "url": "https://framerusercontent.com/images/bKYU8vb4On2bE0nYEW8bVK3O0.webp",
+      "alt": "Long wavy hair with soft honey balayage seen from behind",
+      "pages": [
+        "home"
+      ],
+      "downloadUrl": "https://framerusercontent.com/images/bKYU8vb4On2bE0nYEW8bVK3O0.webp?scale-down-to=1600",
+      "sha256": "6a9e38297e579e08a89e99f5fe7f579247a61d67eac1a0f0ec356a5f9cbd8bbe",
+      "bytes": 278930
+    },
+    {
+      "file": "SRIsJWzzakIwUj5mOcwkP11RffI.webp",
+      "url": "https://framerusercontent.com/images/SRIsJWzzakIwUj5mOcwkP11RffI.webp",
+      "alt": "Man with a sculpted full beard and a hot towel on his shoulder",
+      "pages": [
+        "home"
+      ],
+      "downloadUrl": "https://framerusercontent.com/images/SRIsJWzzakIwUj5mOcwkP11RffI.webp?scale-down-to=1600",
+      "sha256": "9bf7c906d53fc42293f5768e7a0996ea8a95a37ea8a3cb2f08d8d9592a719684",
+      "bytes": 165830
+    },
+    {
+      "file": "AeEFEDJCGboGbOqtm0GfjK9k0.webp",
+      "url": "https://framerusercontent.com/images/AeEFEDJCGboGbOqtm0GfjK9k0.webp",
+      "alt": "Woman with long layered hair in soft waves",
+      "pages": [
+        "home"
+      ],
+      "downloadUrl": "https://framerusercontent.com/images/AeEFEDJCGboGbOqtm0GfjK9k0.webp?scale-down-to=1600",
+      "sha256": "e3be59c937576186570341483915980e37236aab112ae51aa4865720055ad9b5",
+      "bytes": 238116
+    },
+    {
+      "file": "TEftg5TOIaCQUq5AKNrwxyHfpO0.webp",
+      "url": "https://framerusercontent.com/images/TEftg5TOIaCQUq5AKNrwxyHfpO0.webp",
+      "alt": "Stylist cutting a man's textured hair with scissors and a comb",
+      "pages": [
+        "home",
+        "services"
+      ],
+      "downloadUrl": "https://framerusercontent.com/images/TEftg5TOIaCQUq5AKNrwxyHfpO0.webp?scale-down-to=1600",
+      "sha256": "42cff908484230f6a4381f213775a9d8d50c1281459a1835d26027ca21d43b55",
+      "bytes": 255686
+    },
+    {
+      "file": "33WoD3f26gBX3vN4OCYmTjNY1zI.webp",
+      "url": "https://framerusercontent.com/images/33WoD3f26gBX3vN4OCYmTjNY1zI.webp",
+      "alt": "Stylist checking a client's curls during a consultation in the salon",
+      "pages": [
+        "home"
+      ],
+      "downloadUrl": "https://framerusercontent.com/images/33WoD3f26gBX3vN4OCYmTjNY1zI.webp?scale-down-to=1600",
+      "sha256": "ef47286a993f1c7788775e029c5855977b9cb6ec982f8498c29f686c814a8492",
+      "bytes": 182668
+    },
+    {
+      "file": "7Rylf5NFgpPsrOiesP0TGSVbpuc.webp",
+      "url": "https://framerusercontent.com/images/7Rylf5NFgpPsrOiesP0TGSVbpuc.webp",
+      "alt": "Barber cutting textured curls next to a stylist blow drying short grey hair",
+      "pages": [
+        "home"
+      ],
+      "downloadUrl": "https://framerusercontent.com/images/7Rylf5NFgpPsrOiesP0TGSVbpuc.webp?scale-down-to=1600",
+      "sha256": "336accbe4749409e517eaea3f80621cb90fca360b20bac45d2f85c687e5c3629",
+      "bytes": 183328
+    },
+    {
+      "file": "L0dUyqQpHcw26sfX1GBq0wNUU0.webp",
+      "url": "https://framerusercontent.com/images/L0dUyqQpHcw26sfX1GBq0wNUU0.webp",
+      "alt": "Amber bottles, a paddle brush and a comb on a backlit oak shelf",
+      "pages": [
+        "home"
+      ],
+      "downloadUrl": "https://framerusercontent.com/images/L0dUyqQpHcw26sfX1GBq0wNUU0.webp?scale-down-to=1600",
+      "sha256": "28885645b493cd7c9f0930786dc07f9039a31148e34b6274a54bea6d59c62135",
+      "bytes": 151342
+    },
+    {
+      "file": "3C1obMWMtQuuSTCtxoU9XzZUWA.webp",
+      "url": "https://framerusercontent.com/images/3C1obMWMtQuuSTCtxoU9XzZUWA.webp",
+      "alt": "Client relaxing with a coffee while a stylist works on her hair in a calm, open studio",
+      "pages": [
+        "home"
+      ],
+      "downloadUrl": "https://framerusercontent.com/images/3C1obMWMtQuuSTCtxoU9XzZUWA.webp?scale-down-to=1600",
+      "sha256": "a5ceba632607f62bb2b8d408a04755c42e822c97ef05b3e6690d0e8edea2fbce",
+      "bytes": 245062
+    },
+    {
+      "file": "zXU8nAQirlk3q7XPBgdd7HIYk.webp",
+      "url": "https://framerusercontent.com/images/zXU8nAQirlk3q7XPBgdd7HIYk.webp",
+      "alt": "Client booking on a phone at the reception desk next to a coffee",
+      "pages": [
+        "home",
+        "services"
+      ],
+      "downloadUrl": "https://framerusercontent.com/images/zXU8nAQirlk3q7XPBgdd7HIYk.webp?scale-down-to=1600",
+      "sha256": "9b7bb930bfe8dd6ac891c2c5b196e8a0c930ca0a62da313c7206a532dd9e5e4c",
+      "bytes": 105248
+    },
+    {
+      "file": "RKbg1G5SCRaQH8YmD1E3OuXA14.webp",
+      "url": "https://framerusercontent.com/images/RKbg1G5SCRaQH8YmD1E3OuXA14.webp",
+      "alt": "Stylist and client agreeing on the look at the mirror",
+      "pages": [
+        "home",
+        "services"
+      ],
+      "downloadUrl": "https://framerusercontent.com/images/RKbg1G5SCRaQH8YmD1E3OuXA14.webp?scale-down-to=1600",
+      "sha256": "5a43c0dbb94db1dbfdbc968311646fab158a64df0bd8fad66099af60b0dbdf44",
+      "bytes": 208616
+    },
+    {
+      "file": "ErkWKyy3dKwgeev8cISrk70LLU8.webp",
+      "url": "https://framerusercontent.com/images/ErkWKyy3dKwgeev8cISrk70LLU8.webp",
+      "alt": "Barber cutting a client's hair at a backlit arched mirror",
+      "pages": [
+        "home",
+        "services"
+      ],
+      "downloadUrl": "https://framerusercontent.com/images/ErkWKyy3dKwgeev8cISrk70LLU8.webp?scale-down-to=1600",
+      "sha256": "c7bdb23d61ed385bc141b42d52895dc51458ded4c60eecdd22fdd94a3b98d69b",
+      "bytes": 192038
+    },
+    {
+      "file": "zPY6MwXuorDAlj5r4KwFPfix3ms.webp",
+      "url": "https://framerusercontent.com/images/zPY6MwXuorDAlj5r4KwFPfix3ms.webp",
+      "alt": "Stylist recommending a hair care product to a client at the reception desk",
+      "pages": [
+        "home",
+        "services"
+      ],
+      "downloadUrl": "https://framerusercontent.com/images/zPY6MwXuorDAlj5r4KwFPfix3ms.webp?scale-down-to=1600",
+      "sha256": "1dd21fe38df7c9056f3bfbc433bcab65f9a22fe44466defd56afd81a283ca7bd",
+      "bytes": 155432
+    },
+    {
+      "file": "eQgf4JXyZh8qSDioleZGbKBawTU.webp",
+      "url": "https://framerusercontent.com/images/eQgf4JXyZh8qSDioleZGbKBawTU.webp",
+      "alt": "Daniel Okafor smiling with a fresh skin fade",
+      "pages": [
+        "home",
+        "stylists"
+      ],
+      "downloadUrl": "https://framerusercontent.com/images/eQgf4JXyZh8qSDioleZGbKBawTU.webp?scale-down-to=1600",
+      "sha256": "04989f3266e546607445615be27ad5bda28352217c17a77699bb0480ddefb1b1",
+      "bytes": 359072
+    },
+    {
+      "file": "9fkUKrBJl6ab3H08ntGRcldEuc.webp",
+      "url": "https://framerusercontent.com/images/9fkUKrBJl6ab3H08ntGRcldEuc.webp",
+      "alt": "Sofia Russo with soft honey balayage waves",
+      "pages": [
+        "home",
+        "stylists"
+      ],
+      "downloadUrl": "https://framerusercontent.com/images/9fkUKrBJl6ab3H08ntGRcldEuc.webp?scale-down-to=1600",
+      "sha256": "b9f4fbc8bf330310d4b7f47ad6e407aa657785a46b3622f847a31b345291a8c7",
+      "bytes": 220730
+    },
+    {
+      "file": "Awwd5BcHJHBFAHiMZXwixJXXA.webp",
+      "url": "https://framerusercontent.com/images/Awwd5BcHJHBFAHiMZXwixJXXA.webp",
+      "alt": "Kwame Asante and his son with fresh haircuts",
+      "pages": [
+        "home",
+        "stylists"
+      ],
+      "downloadUrl": "https://framerusercontent.com/images/Awwd5BcHJHBFAHiMZXwixJXXA.webp?scale-down-to=1600",
+      "sha256": "4a9d4e812483d07072258b298aed2bd8e189dafc015363b4e77d8971ba0a7c47",
+      "bytes": 188820
+    },
+    {
+      "file": "68glrMu5SF8KivitALGY0RDnQ.webp",
+      "url": "https://framerusercontent.com/images/68glrMu5SF8KivitALGY0RDnQ.webp",
+      "alt": "Leah Martin with defined natural curls",
+      "pages": [
+        "home",
+        "stylists"
+      ],
+      "downloadUrl": "https://framerusercontent.com/images/68glrMu5SF8KivitALGY0RDnQ.webp?scale-down-to=1600",
+      "sha256": "ac5bf94b1b92182d101f9d54332ac31711459815111ed58f796e3c2b66fd8194",
+      "bytes": 241174
+    },
+    {
+      "file": "mqShyftM6wUuiO8Gypwv6LSnNqk.webp",
+      "url": "https://framerusercontent.com/images/mqShyftM6wUuiO8Gypwv6LSnNqk.webp",
+      "alt": "Textured crop with a soft fade",
+      "pages": [
+        "home"
+      ],
+      "downloadUrl": "https://framerusercontent.com/images/mqShyftM6wUuiO8Gypwv6LSnNqk.webp?scale-down-to=1600",
+      "sha256": "0ab5df8615a5fc0e3952215c7386b4af5bab40b3096a50470d541b820cf1b045",
+      "bytes": 129254
+    },
+    {
+      "file": "NxYFT5mKijNxvlbhIu7hRI1fY.webp",
+      "url": "https://framerusercontent.com/images/NxYFT5mKijNxvlbhIu7hRI1fY.webp",
+      "alt": "Long balayage waves",
+      "pages": [
+        "home"
+      ],
+      "downloadUrl": "https://framerusercontent.com/images/NxYFT5mKijNxvlbhIu7hRI1fY.webp?scale-down-to=1600",
+      "sha256": "d24c7e82831da8dd9b8b5860bb44fd61e9473feb53b7b97c3cbbaddc9f51cf14",
+      "bytes": 249116
+    },
+    {
+      "file": "Wv8iQ4mnyySrEPDkrFP0EjKI.webp",
+      "url": "https://framerusercontent.com/images/Wv8iQ4mnyySrEPDkrFP0EjKI.webp",
+      "alt": "Skin fade with a sharp line up",
+      "pages": [
+        "home"
+      ],
+      "downloadUrl": "https://framerusercontent.com/images/Wv8iQ4mnyySrEPDkrFP0EjKI.webp?scale-down-to=1600",
+      "sha256": "1bd4a72705db8b037872ece5b2e3f8aef0a0381c721d966bc9a890f74f8c7050",
+      "bytes": 194630
+    },
+    {
+      "file": "UIXoK8Qi058hAtIAP0klJTiwnA4.webp",
+      "url": "https://framerusercontent.com/images/UIXoK8Qi058hAtIAP0klJTiwnA4.webp",
+      "alt": "Glossy chestnut bob",
+      "pages": [
+        "home"
+      ],
+      "downloadUrl": "https://framerusercontent.com/images/UIXoK8Qi058hAtIAP0klJTiwnA4.webp?scale-down-to=1600",
+      "sha256": "1c084bf12e73f1a09fa650b37e33a90c70a22cee5c45c2c56ebe4a75c898076b",
+      "bytes": 160946
+    },
+    {
+      "file": "vehNgM6P2jpVeHe3DzmwFRdvDgE.webp",
+      "url": "https://framerusercontent.com/images/vehNgM6P2jpVeHe3DzmwFRdvDgE.webp",
+      "alt": "Sculpted beard and taper",
+      "pages": [
+        "home"
+      ],
+      "downloadUrl": "https://framerusercontent.com/images/vehNgM6P2jpVeHe3DzmwFRdvDgE.webp?scale-down-to=1600",
+      "sha256": "bc4e9b604338192f5a82f63570ca7730e0145e61db00f7b537153560f14b1cd2",
+      "bytes": 192278
+    },
+    {
+      "file": "dEU3e4R8qF31WvvhuQMBr0oiDOU.webp",
+      "url": "https://framerusercontent.com/images/dEU3e4R8qF31WvvhuQMBr0oiDOU.webp",
+      "alt": "Natural curls shaped with a dry cut",
+      "pages": [
+        "home"
+      ],
+      "downloadUrl": "https://framerusercontent.com/images/dEU3e4R8qF31WvvhuQMBr0oiDOU.webp?scale-down-to=1600",
+      "sha256": "7e0bf8e168b2ee3ea1f7ee6f0aa830430ba844e9a09f75ea9adb5f834345934c",
+      "bytes": 224704
+    },
+    {
+      "file": "e8GASNB2z4X9zAEqZY1ByusOc8.webp",
+      "url": "https://framerusercontent.com/images/e8GASNB2z4X9zAEqZY1ByusOc8.webp",
+      "alt": "Short textured pixie cut",
+      "pages": [
+        "home"
+      ],
+      "downloadUrl": "https://framerusercontent.com/images/e8GASNB2z4X9zAEqZY1ByusOc8.webp?scale-down-to=1600",
+      "sha256": "54e1e95fa5d6382e4e504b49d49e6fec51dfe9d9bd882709b5f803a89fec3ad2",
+      "bytes": 141698
+    },
+    {
+      "file": "x4tIpmSDKOVfKmqfRzTYv8nA.webp",
+      "url": "https://framerusercontent.com/images/x4tIpmSDKOVfKmqfRzTYv8nA.webp",
+      "alt": "Classic side part with natural grey",
+      "pages": [
+        "home"
+      ],
+      "downloadUrl": "https://framerusercontent.com/images/x4tIpmSDKOVfKmqfRzTYv8nA.webp?scale-down-to=1600",
+      "sha256": "d4ea4b9178453dd83c67bf875dc0659f0b782eb96c028ca1ab392620ac5d87a1",
+      "bytes": 281398
+    },
+    {
+      "file": "cZu5yvX5rnt22eFUoYnFb8qyc.webp",
+      "url": "https://framerusercontent.com/images/cZu5yvX5rnt22eFUoYnFb8qyc.webp",
+      "alt": "Sleek silk press on long hair",
+      "pages": [
+        "home"
+      ],
+      "downloadUrl": "https://framerusercontent.com/images/cZu5yvX5rnt22eFUoYnFb8qyc.webp?scale-down-to=1600",
+      "sha256": "704c2837985a135c7f05b5f7d56398b8b06e6ee4e60578001ef6d4cf461963cf",
+      "bytes": 242062
+    },
+    {
+      "file": "7xsaYC3BCeOF2IEgkhR3CRyFkg.webp",
+      "url": "https://framerusercontent.com/images/7xsaYC3BCeOF2IEgkhR3CRyFkg.webp",
+      "alt": "Kids cut with a neat side part",
+      "pages": [
+        "home"
+      ],
+      "downloadUrl": "https://framerusercontent.com/images/7xsaYC3BCeOF2IEgkhR3CRyFkg.webp?scale-down-to=1600",
+      "sha256": "f57678a1347e7a5fbad79f68b274ceb4465bdb34585c0566c9a7c7e79f1e9a5e",
+      "bytes": 146492
+    },
+    {
+      "file": "JMg9rwgRlQ6lRRqhlLNNGjEfA7Y.webp",
+      "url": "https://framerusercontent.com/images/JMg9rwgRlQ6lRRqhlLNNGjEfA7Y.webp",
+      "alt": "Copper colour melt in shoulder length hair",
+      "pages": [
+        "home"
+      ],
+      "downloadUrl": "https://framerusercontent.com/images/JMg9rwgRlQ6lRRqhlLNNGjEfA7Y.webp?scale-down-to=1600",
+      "sha256": "80c150297c92b2897e73d6678f14e1f3b7ace0cfc06386bae6184826eb025ecb",
+      "bytes": 209946
+    },
+    {
+      "file": "kZ7a98RSt3b9MyYFhjTZZSBI8.webp",
+      "url": "https://framerusercontent.com/images/kZ7a98RSt3b9MyYFhjTZZSBI8.webp",
+      "alt": "Slick back with a high fade",
+      "pages": [
+        "home"
+      ],
+      "downloadUrl": "https://framerusercontent.com/images/kZ7a98RSt3b9MyYFhjTZZSBI8.webp?scale-down-to=1600",
+      "sha256": "39b0fb9423623d605af6d9ac7294d63349da6f10ec29708a5649335acb90a1be",
+      "bytes": 217404
+    },
+    {
+      "file": "WCszI9R16V2oj27Wi2oiOtpleI.webp",
+      "url": "https://framerusercontent.com/images/WCszI9R16V2oj27Wi2oiOtpleI.webp",
+      "alt": "Layered shag with curtain bangs",
+      "pages": [
+        "home"
+      ],
+      "downloadUrl": "https://framerusercontent.com/images/WCszI9R16V2oj27Wi2oiOtpleI.webp?scale-down-to=1600",
+      "sha256": "9f8bf39f03d798efefe2ab096135d2f2e9a43613066723e8d0876011c8ab8dff",
+      "bytes": 262582
+    },
+    {
+      "file": "RpxcpO33XfquiJGrn6ShFmfkR8.webp",
+      "url": "https://framerusercontent.com/images/RpxcpO33XfquiJGrn6ShFmfkR8.webp",
+      "alt": "Loose romantic braids for an event",
+      "pages": [
+        "home"
+      ],
+      "downloadUrl": "https://framerusercontent.com/images/RpxcpO33XfquiJGrn6ShFmfkR8.webp?scale-down-to=1600",
+      "sha256": "a74497ebb7ec0c512bb9a6eab6770cc1ca2094fae11f44a6df518a306a9df67e",
+      "bytes": 176874
+    },
+    {
+      "file": "gxo3K7j0zroNKWnfR7xDEcM.webp",
+      "url": "https://framerusercontent.com/images/gxo3K7j0zroNKWnfR7xDEcM.webp",
+      "alt": "Tools for every service laid out on a light oak counter: scissors, clippers, a razor, a colour bowl and a hair mask",
+      "pages": [
+        "services"
+      ],
+      "downloadUrl": "https://framerusercontent.com/images/gxo3K7j0zroNKWnfR7xDEcM.webp?scale-down-to=1600",
+      "sha256": "867d3a1c0777001f53ae2339d14e3d7493d506e793f62f15717d1fffa6754319",
+      "bytes": 209406
+    },
+    {
+      "file": "ucRbnSR5XsC9pVQch7v686eTwHo.webp",
+      "url": "https://framerusercontent.com/images/ucRbnSR5XsC9pVQch7v686eTwHo.webp",
+      "alt": "Long wavy hair with a honey and caramel balayage",
+      "pages": [
+        "stylists-ava-laurent"
+      ],
+      "downloadUrl": "https://framerusercontent.com/images/ucRbnSR5XsC9pVQch7v686eTwHo.webp?scale-down-to=1600",
+      "sha256": "a75c54bcc26d9a145199be053ad78bdc3a73ca741d5c5cbe9b7ad4725cd88939",
+      "bytes": 242374
+    },
+    {
+      "file": "Ku1RwwLnDo8TdXhA04QlKgGk.webp",
+      "url": "https://framerusercontent.com/images/Ku1RwwLnDo8TdXhA04QlKgGk.webp",
+      "alt": "Shoulder length hair in a glossy lived in copper colour",
+      "pages": [
+        "stylists-ava-laurent"
+      ],
+      "downloadUrl": "https://framerusercontent.com/images/Ku1RwwLnDo8TdXhA04QlKgGk.webp?scale-down-to=1600",
+      "sha256": "c5a9b317b19e4b64af97cb3657f3cc1a91d6ca629c9168f39b240226ed05233d",
+      "bytes": 207958
+    },
+    {
+      "file": "ne9iZXPUDrzNzSgbeCRg01J70.webp",
+      "url": "https://framerusercontent.com/images/ne9iZXPUDrzNzSgbeCRg01J70.webp",
+      "alt": "Swept back men's hair with soft ash brown highlights",
+      "pages": [
+        "stylists-ava-laurent"
+      ],
+      "downloadUrl": "https://framerusercontent.com/images/ne9iZXPUDrzNzSgbeCRg01J70.webp?scale-down-to=1600",
+      "sha256": "8856a2aba2aa85cf994a00dbdd73ea50cfd871917e97ffd1ba94bc2183717a9a",
+      "bytes": 158434
+    },
+    {
+      "file": "EMDX5dS9dLSH3VV88F8xlErehkg.webp",
+      "url": "https://framerusercontent.com/images/EMDX5dS9dLSH3VV88F8xlErehkg.webp",
+      "alt": "Short textured crop with a soft low taper",
+      "pages": [
+        "stylists-jonah-kim"
+      ],
+      "downloadUrl": "https://framerusercontent.com/images/EMDX5dS9dLSH3VV88F8xlErehkg.webp?scale-down-to=1600",
+      "sha256": "6c5f55eba89905068ba6f84379288133146d8070ea3900def092f43ab094ff6e",
+      "bytes": 159618
+    },
+    {
+      "file": "iZkPSSWDU3ABZiWnRAagmeXhwsE.webp",
+      "url": "https://framerusercontent.com/images/iZkPSSWDU3ABZiWnRAagmeXhwsE.webp",
+      "alt": "Defined curls on top with a clean low taper",
+      "pages": [
+        "stylists-jonah-kim"
+      ],
+      "downloadUrl": "https://framerusercontent.com/images/iZkPSSWDU3ABZiWnRAagmeXhwsE.webp?scale-down-to=1600",
+      "sha256": "46f0f9fc7df6fa8120ab96291c2cad9f018f8cea96a8fdc8af10644fda9ed342",
+      "bytes": 157116
+    },
+    {
+      "file": "p92oLmkb0IpGTZfNwy1vpkDyYow.webp",
+      "url": "https://framerusercontent.com/images/p92oLmkb0IpGTZfNwy1vpkDyYow.webp",
+      "alt": "Short curly pixie cut with soft defined curls",
+      "pages": [
+        "stylists-jonah-kim"
+      ],
+      "downloadUrl": "https://framerusercontent.com/images/p92oLmkb0IpGTZfNwy1vpkDyYow.webp?scale-down-to=1600",
+      "sha256": "766bcdaa3cd59248c9c614d82a6083ab0d2b968b8b46bdeff03c556b6f416cba",
+      "bytes": 126162
+    },
+    {
+      "file": "URVVzOKNH3YkDD0DLshOwQ32k.webp",
+      "url": "https://framerusercontent.com/images/URVVzOKNH3YkDD0DLshOwQ32k.webp",
+      "alt": "Mid skin fade with a sculpted short beard",
+      "pages": [
+        "stylists-marcus-reid"
+      ],
+      "downloadUrl": "https://framerusercontent.com/images/URVVzOKNH3YkDD0DLshOwQ32k.webp?scale-down-to=1600",
+      "sha256": "49b8b98e222c73193dd8d05990016a949babf679e88868c3e5f4e7e1a38bf24c",
+      "bytes": 145256
+    },
+    {
+      "file": "KFLG7adWV2yD8y6urzKgZY0ncGI.webp",
+      "url": "https://framerusercontent.com/images/KFLG7adWV2yD8y6urzKgZY0ncGI.webp",
+      "alt": "Sculpted high top with a smooth skin fade and crisp line up",
+      "pages": [
+        "stylists-marcus-reid"
+      ],
+      "downloadUrl": "https://framerusercontent.com/images/KFLG7adWV2yD8y6urzKgZY0ncGI.webp?scale-down-to=1600",
+      "sha256": "965bb2ef2b6b1c9770fb290f3d03132251773a5d6b83ae1fdcc199f04cf37d9b",
+      "bytes": 159298
+    },
+    {
+      "file": "UcDyc6WbBuRYq5drSBjq6ZKsnYk.webp",
+      "url": "https://framerusercontent.com/images/UcDyc6WbBuRYq5drSBjq6ZKsnYk.webp",
+      "alt": "Tousled pixie cut with a skin faded undercut",
+      "pages": [
+        "stylists-marcus-reid"
+      ],
+      "downloadUrl": "https://framerusercontent.com/images/UcDyc6WbBuRYq5drSBjq6ZKsnYk.webp?scale-down-to=1600",
+      "sha256": "48beecdc4da28d528d94448aa3ea188d60aaea20eead2c0b7e35b7176b1198a5",
+      "bytes": 108292
+    },
+    {
+      "file": "EqhzDF2itOkKbv4PrvqlVBB7Hac.webp",
+      "url": "https://framerusercontent.com/images/EqhzDF2itOkKbv4PrvqlVBB7Hac.webp",
+      "alt": "Long dark brown hair cut in soft face framing layers with a smooth blow dry",
+      "pages": [
+        "stylists-priya-shah"
+      ],
+      "downloadUrl": "https://framerusercontent.com/images/EqhzDF2itOkKbv4PrvqlVBB7Hac.webp?scale-down-to=1600",
+      "sha256": "eac21e1c8848baea828cdb015fc1634d9e08ceaab897b3cc9f9f1b882106209d",
+      "bytes": 180108
+    },
+    {
+      "file": "b0jyxOYkOD74tDaFPQIevXgCSpA.webp",
+      "url": "https://framerusercontent.com/images/b0jyxOYkOD74tDaFPQIevXgCSpA.webp",
+      "alt": "Shoulder length chestnut blowout with soft curtain bangs",
+      "pages": [
+        "stylists-priya-shah"
+      ],
+      "downloadUrl": "https://framerusercontent.com/images/b0jyxOYkOD74tDaFPQIevXgCSpA.webp?scale-down-to=1600",
+      "sha256": "22effba5bb7b169240a3e83a95108ba0f5a4f30755a0ad2cc028f106ef9dd3e7",
+      "bytes": 156422
+    },
+    {
+      "file": "oIzHo5BmFrAbmtOE6jlakudaJo.webp",
+      "url": "https://framerusercontent.com/images/oIzHo5BmFrAbmtOE6jlakudaJo.webp",
+      "alt": "Chin length layered men's cut blow dried into a soft flow",
+      "pages": [
+        "stylists-priya-shah"
+      ],
+      "downloadUrl": "https://framerusercontent.com/images/oIzHo5BmFrAbmtOE6jlakudaJo.webp?scale-down-to=1600",
+      "sha256": "e387a2511ec3035edf62f456f27a0d349f7cbfea2761adbb6fb0b6bc5820bfda",
+      "bytes": 142018
+    },
+    {
+      "file": "CWF4CqZIeUKg0HoRgIpr3LrQ4gE.webp",
+      "url": "https://framerusercontent.com/images/CWF4CqZIeUKg0HoRgIpr3LrQ4gE.webp",
+      "alt": "The Scissor stylists together on the salon floor in front of the arched mirrors",
+      "pages": [
+        "stylists"
+      ],
+      "downloadUrl": "https://framerusercontent.com/images/CWF4CqZIeUKg0HoRgIpr3LrQ4gE.webp?scale-down-to=1600",
+      "sha256": "3ed07d9cab1feabcbbc2601499876776126859a5d73a3131d0dfffd2a57646d8",
+      "bytes": 179858
+    },
+    {
+      "file": "IWlKIfxPpcCj3rSfZqndP4mA.png",
+      "url": "https://framerusercontent.com/images/IWlKIfxPpcCj3rSfZqndP4mA.png",
+      "alt": "",
+      "pages": [
+        "module"
+      ],
+      "downloadUrl": "https://framerusercontent.com/images/IWlKIfxPpcCj3rSfZqndP4mA.png?scale-down-to=1600",
+      "sha256": "d5616d9b3b9b75c3080ac60c61e248de587860feadf432a127920c52a7e0ba72",
+      "bytes": 16863
+    },
+    {
+      "file": "CJfz25pm9xCkl129zFtdltivg8.png",
+      "url": "https://framerusercontent.com/images/CJfz25pm9xCkl129zFtdltivg8.png",
+      "alt": "",
+      "pages": [
+        "module"
+      ],
+      "downloadUrl": "https://framerusercontent.com/images/CJfz25pm9xCkl129zFtdltivg8.png?scale-down-to=1600",
+      "sha256": "244c0b6fd157fe5f882b94555f1945dd71377b22ac904168b22582107cb288f6",
+      "bytes": 2990
+    },
+    {
+      "file": "LhnggSRDmXwuz9wL09487hJgU.webp",
+      "url": "https://framerusercontent.com/images/LhnggSRDmXwuz9wL09487hJgU.webp",
+      "alt": "",
+      "pages": [
+        "module"
+      ],
+      "downloadUrl": "https://framerusercontent.com/images/LhnggSRDmXwuz9wL09487hJgU.webp?scale-down-to=1600",
+      "sha256": "d070a2de2a9613c0324953ffe2f37ff8ef12a7270a329ab01b8a5327c434b607",
+      "bytes": 152984
+    },
+    {
+      "file": "aCDuKb1cw2hLdVD3FC7wr2WdPMc.webp",
+      "url": "https://framerusercontent.com/images/aCDuKb1cw2hLdVD3FC7wr2WdPMc.webp",
+      "alt": "",
+      "pages": [
+        "module"
+      ],
+      "downloadUrl": "https://framerusercontent.com/images/aCDuKb1cw2hLdVD3FC7wr2WdPMc.webp?scale-down-to=1600",
+      "sha256": "c1be1bd77a85bd059b1a210fcd78f5567a33f95310ae9405c54324b9e0debb0d",
+      "bytes": 172612
+    },
+    {
+      "file": "noAH72TLMucVuPfYRqahLNrMY.webp",
+      "url": "https://framerusercontent.com/images/noAH72TLMucVuPfYRqahLNrMY.webp",
+      "alt": "",
+      "pages": [
+        "module"
+      ],
+      "downloadUrl": "https://framerusercontent.com/images/noAH72TLMucVuPfYRqahLNrMY.webp?scale-down-to=1600",
+      "sha256": "8cf24df0661faad728651cd4fb920d29bf00fb97d369fbf1fab954d153d9bf9b",
+      "bytes": 119858
+    },
+    {
+      "file": "aai83K5Hhb8s4barfyOwtk9TL6w.webp",
+      "url": "https://framerusercontent.com/images/aai83K5Hhb8s4barfyOwtk9TL6w.webp",
+      "alt": "",
+      "pages": [
+        "module"
+      ],
+      "downloadUrl": "https://framerusercontent.com/images/aai83K5Hhb8s4barfyOwtk9TL6w.webp?scale-down-to=1600",
+      "sha256": "268f4dfe24c2c6eee6a220e647455606326c40275bd92f5c0a913ee3ffb9588f",
+      "bytes": 165384
+    },
+    {
+      "file": "fMTiJi2sJdzEkS6zGnH3yLGLg.webp",
+      "url": "https://framerusercontent.com/images/fMTiJi2sJdzEkS6zGnH3yLGLg.webp",
+      "alt": "",
+      "pages": [
+        "module"
+      ],
+      "downloadUrl": "https://framerusercontent.com/images/fMTiJi2sJdzEkS6zGnH3yLGLg.webp?scale-down-to=1600",
+      "sha256": "4be5602c0df2f3c49d72da01353f673dad3007d4f9053013dffdc5fc0da8fa01",
+      "bytes": 227278
+    },
+    {
+      "file": "V58R2MYJtWfle5p2mrObdbNRXw.webp",
+      "url": "https://framerusercontent.com/images/V58R2MYJtWfle5p2mrObdbNRXw.webp",
+      "alt": "",
+      "pages": [
+        "module"
+      ],
+      "downloadUrl": "https://framerusercontent.com/images/V58R2MYJtWfle5p2mrObdbNRXw.webp?scale-down-to=1600",
+      "sha256": "c741c29aee23c618bf99cd477c5ca53412f018d511350f2784397398582debd0",
+      "bytes": 159396
+    },
+    {
+      "file": "0Ypf4KGT6ycdUchfswgnjrOsPo.webp",
+      "url": "https://framerusercontent.com/images/0Ypf4KGT6ycdUchfswgnjrOsPo.webp",
+      "alt": "",
+      "pages": [
+        "module"
+      ],
+      "downloadUrl": "https://framerusercontent.com/images/0Ypf4KGT6ycdUchfswgnjrOsPo.webp?scale-down-to=1600",
+      "sha256": "773a3f7834ed647f2ae4f3ee0fd1af2c308c3a7a755b3e57d51dee153ba4bfed",
+      "bytes": 184016
+    },
+    {
+      "file": "1inQQomU11PucTno16DDSVZfifA.webp",
+      "url": "https://framerusercontent.com/images/1inQQomU11PucTno16DDSVZfifA.webp",
+      "alt": "",
+      "pages": [
+        "module"
+      ],
+      "downloadUrl": "https://framerusercontent.com/images/1inQQomU11PucTno16DDSVZfifA.webp?scale-down-to=1600",
+      "sha256": "a923e7f1bd7d713cefde060f3252a07bd0de7588332ea9c67e7a0ca09d00b494",
+      "bytes": 268494
+    },
+    {
+      "file": "5HWm5BwUc211lW4Yneu9LldYSNg.webp",
+      "url": "https://framerusercontent.com/images/5HWm5BwUc211lW4Yneu9LldYSNg.webp",
+      "alt": "",
+      "pages": [
+        "module"
+      ],
+      "downloadUrl": "https://framerusercontent.com/images/5HWm5BwUc211lW4Yneu9LldYSNg.webp?scale-down-to=1600",
+      "sha256": "b6ccdf942df38bfeca02470b6b28d35455b1e7f40236cdb06fc7ac4e4d6e22bf",
+      "bytes": 219340
+    },
+    {
+      "file": "85MLEfM8g7C836osRShgeztJ5eM.webp",
+      "url": "https://framerusercontent.com/images/85MLEfM8g7C836osRShgeztJ5eM.webp",
+      "alt": "",
+      "pages": [
+        "module"
+      ],
+      "downloadUrl": "https://framerusercontent.com/images/85MLEfM8g7C836osRShgeztJ5eM.webp?scale-down-to=1600",
+      "sha256": "31643ad7de54987d2080e404a1e7aa081d26119490278b870042196664191b91",
+      "bytes": 177894
+    }
+  ]
+}

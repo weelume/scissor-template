@@ -1,0 +1,10 @@
+'use client'
+import type { SiteTemplatePageProps } from '../../../types'
+import { Shell } from '../components/Layout'
+import { Hero } from '../components/Hero'
+import { Studio,Reasons,StylistGrid,Visit } from '../components/Studio'
+import { Services,FAQ } from '../components/Services'
+import { Transformations } from '../components/Transformations'
+import { Marquee,Reviews,Lookbook } from '../components/Galleries'
+import { Booking } from '../components/Booking'
+export default function Home({locale='zh',basePath}:SiteTemplatePageProps) { const props={locale,basePath};return <Shell {...props}><Hero {...props}/><Marquee locale={locale}/><Studio {...props}/><Services {...props}/><Reasons locale={locale}/><Transformations {...props}/><StylistGrid {...props}/><Visit locale={locale}/><Reviews locale={locale}/><Lookbook locale={locale}/><FAQ locale={locale}/><Booking locale={locale}/></Shell> }

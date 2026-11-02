@@ -1,0 +1,28 @@
+{
+  "format": "git-template-customization",
+  "formatVersion": "0.2.0",
+  "entries": [
+    {
+      "id": "brand-content-theme",
+      "title": "品牌、双语内容与主题",
+      "description": "修改品牌与文案时同步两种语言；动效保留减少动态效果分支。",
+      "files": [
+        {
+          "path": "src/features/site-templates/catalog/scissor",
+          "kind": "directory",
+          "purpose": "配置、内容、公共组件与页面组合"
+        }
+      ],
+      "constraints": [
+        "不提交秘密；表单不得静默发送数据。"
+      ],
+      "checks": [
+        "typecheck",
+        "lint",
+        "test",
+        "build"
+      ]
+    }
+  ],
+  "$schema": "./schemas/customization.schema.json"
+}

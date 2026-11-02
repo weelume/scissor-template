@@ -1,0 +1,226 @@
+{
+  "$schema": "./schemas/template.schema.json",
+  "format": "git-template",
+  "formatVersion": "0.2.0",
+  "id": "scissor",
+  "version": "1.0.0",
+  "name": "Scissor · 发型工作室",
+  "localizedNames": {
+    "zh": "Scissor · 发型工作室",
+    "en": "Scissor · Hair studio"
+  },
+  "gitUrl": "https://github.com/weelume/scissor-template",
+  "sceneId": "corporate-site",
+  "listed": false,
+  "tags": [
+    "发型沙龙",
+    "暖色极简",
+    "滚动动效",
+    "前后对比",
+    "中英文",
+    "PC / iPad / H5"
+  ],
+  "stack": [
+    "React",
+    "Next.js",
+    "TypeScript",
+    "framer-motion"
+  ],
+  "summary": "暖色发型工作室整站模板，包含服务价格、四位发型师详情、拖拽前后对比、弧形作品画册、预约演示与政策页面。",
+  "accentColor": "#90755e",
+  "cover": "assets/desktop-home.webp",
+  "screenshots": [
+    {
+      "src": "assets/desktop-home.webp",
+      "alt": "Scissor desktop home",
+      "device": "desktop",
+      "width": 1430,
+      "height": 993,
+      "surfaceId": "site",
+      "pageSlug": ""
+    },
+    {
+      "src": "assets/desktop-services.webp",
+      "alt": "Scissor desktop services",
+      "device": "desktop",
+      "width": 1430,
+      "height": 993,
+      "surfaceId": "site",
+      "pageSlug": "services"
+    },
+    {
+      "src": "assets/desktop-stylists.webp",
+      "alt": "Scissor desktop stylists",
+      "device": "desktop",
+      "width": 1430,
+      "height": 993,
+      "surfaceId": "site",
+      "pageSlug": "stylists"
+    },
+    {
+      "src": "assets/desktop-contact.webp",
+      "alt": "Scissor desktop contact",
+      "device": "desktop",
+      "width": 1430,
+      "height": 993,
+      "surfaceId": "site",
+      "pageSlug": "contact"
+    },
+    {
+      "src": "assets/tablet-home.webp",
+      "alt": "Scissor tablet home",
+      "device": "tablet",
+      "width": 824,
+      "height": 1166,
+      "surfaceId": "site",
+      "pageSlug": ""
+    },
+    {
+      "src": "assets/tablet-services.webp",
+      "alt": "Scissor tablet services",
+      "device": "tablet",
+      "width": 824,
+      "height": 1166,
+      "surfaceId": "site",
+      "pageSlug": "services"
+    },
+    {
+      "src": "assets/tablet-stylists.webp",
+      "alt": "Scissor tablet stylists",
+      "device": "tablet",
+      "width": 824,
+      "height": 1166,
+      "surfaceId": "site",
+      "pageSlug": "stylists"
+    },
+    {
+      "src": "assets/tablet-contact.webp",
+      "alt": "Scissor tablet contact",
+      "device": "tablet",
+      "width": 824,
+      "height": 1166,
+      "surfaceId": "site",
+      "pageSlug": "contact"
+    },
+    {
+      "src": "assets/mobile-home.webp",
+      "alt": "Scissor mobile home",
+      "device": "mobile",
+      "width": 380,
+      "height": 822,
+      "surfaceId": "site",
+      "pageSlug": ""
+    },
+    {
+      "src": "assets/mobile-services.webp",
+      "alt": "Scissor mobile services",
+      "device": "mobile",
+      "width": 380,
+      "height": 822,
+      "surfaceId": "site",
+      "pageSlug": "services"
+    },
+    {
+      "src": "assets/mobile-stylists.webp",
+      "alt": "Scissor mobile stylists",
+      "device": "mobile",
+      "width": 380,
+      "height": 822,
+      "surfaceId": "site",
+      "pageSlug": "stylists"
+    },
+    {
+      "src": "assets/mobile-contact.webp",
+      "alt": "Scissor mobile contact",
+      "device": "mobile",
+      "width": 380,
+      "height": 822,
+      "surfaceId": "site",
+      "pageSlug": "contact"
+    }
+  ],
+  "surfaces": [
+    {
+      "id": "site",
+      "name": "官网",
+      "platform": "pc",
+      "locales": [
+        "zh",
+        "en"
+      ],
+      "pages": [
+        {
+          "slug": "",
+          "title": "首页",
+          "localizedTitles": {
+            "en": "Home"
+          }
+        },
+        {
+          "slug": "about",
+          "title": "关于",
+          "localizedTitles": {
+            "en": "About"
+          }
+        },
+        {
+          "slug": "services",
+          "title": "服务",
+          "localizedTitles": {
+            "en": "Services"
+          }
+        },
+        {
+          "slug": "stylists",
+          "title": "发型师",
+          "localizedTitles": {
+            "en": "Stylists"
+          }
+        },
+        {
+          "slug": "stylists/priya-shah",
+          "title": "Priya Shah"
+        },
+        {
+          "slug": "stylists/jonah-kim",
+          "title": "Jonah Kim"
+        },
+        {
+          "slug": "stylists/ava-laurent",
+          "title": "Ava Laurent"
+        },
+        {
+          "slug": "stylists/marcus-reid",
+          "title": "Marcus Reid"
+        },
+        {
+          "slug": "contact",
+          "title": "联系预约",
+          "localizedTitles": {
+            "en": "Contact"
+          }
+        },
+        {
+          "slug": "privacy",
+          "title": "隐私政策",
+          "localizedTitles": {
+            "en": "Privacy"
+          }
+        },
+        {
+          "slug": "terms",
+          "title": "服务条款",
+          "localizedTitles": {
+            "en": "Terms"
+          }
+        }
+      ]
+    }
+  ],
+  "license": {
+    "type": "restricted",
+    "file": "docs/LICENSE.md",
+    "summary": "用户确认拥有模板及素材再分发授权；原设计、照片与字体权利归原权利人。",
+    "redistributionAllowed": false
+  }
+}
