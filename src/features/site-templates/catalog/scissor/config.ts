@@ -1,7 +1,7 @@
 import type { TemplateLocale } from '../../types'
 export type Copy = Record<TemplateLocale, string>
 export const copy = (zh: string, en: string): Copy => ({ zh, en })
-export const brand = { name: copy('Scissor 发型工作室', 'Scissor'), year: 2026, phone: '(718) 555 0147', phoneHref: 'tel:+17185550147', email: 'hi@scissorhair.com', address: copy('布鲁克林 Wythe 大道 214 号', '214 Wythe Ave, Brooklyn'), hours: copy('周二至周日 9:00–20:00', 'Tue to Sun, 9 am to 8 pm') }
+export const brand = { name: copy('Scissor 发型工作室', 'Scissor'), year: 2026, logo: '/templates/scissor/images/Lbs1fOGylFeUjTCOXJbuj237LU.png', phone: '(718) 555 0147', phoneHref: 'tel:+17185550147', email: 'hi@scissorhair.com', address: copy('布鲁克林 Wythe 大道 214 号', '214 Wythe Ave, Brooklyn'), hours: copy('周二至周日 9:00–20:00', 'Tue to Sun, 9 am to 8 pm') }
 export const image = (file: string) => `/templates/scissor/images/${file}.webp`
 export const navigation = [
   { path: 'about', label: copy('关于我们', 'About') }, { path: '#studio', label: copy('工作室', 'Studio') },

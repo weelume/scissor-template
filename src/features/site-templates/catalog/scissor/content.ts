@@ -52,3 +52,12 @@ export const faqs = [
  [copy('使用哪些护理产品','Which products do you use?'),copy('我们使用专业、温和的沙龙染护产品，会根据发质解释和推荐适合的选择。','We use professional, low tox colour and salon grade care, chosen for your hair and explained at your appointment.')],
  [copy('如何取消预约','What is your cancellation policy?'),copy('请至少提前 24 小时通知。如迟到超过 15 分钟，可能需要缩短服务或重新预约。','Please give at least 24 hours notice. If you are more than 15 minutes late we may need to shorten or rebook your service.')],
 ]
+
+export const bookingServices = [
+  {value:'cut-style',label:copy('剪发与造型','Cut and style')},
+  {value:'skin-fade',label:copy('渐变短发','Skin fade')},
+  {value:'colour',label:copy('染发','Colour')},
+  {value:'balayage',label:copy('手绘挑染','Balayage')},
+  {value:'beard-shave',label:copy('胡须与剃须','Beard and shave')},
+  {value:'treatment',label:copy('头发护理','Treatment')},
+]

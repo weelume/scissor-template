@@ -1,6 +1,60 @@
 {
-  "checkedAt": "2026-11-02T09:11:09.080Z",
+  "checkedAt": "2026-11-02T09:54:03.193Z",
   "browser": "内置浏览器",
+  "formSelect": {
+    "checkedAt": "2026-11-02T09:53:49.042Z",
+    "viewports": [
+      {
+        "device": "desktop",
+        "options": [
+          "剪发与造型",
+          "渐变短发",
+          "染发",
+          "手绘挑染",
+          "胡须与剃须",
+          "头发护理"
+        ],
+        "closed": "false"
+      },
+      {
+        "device": "tablet",
+        "options": [
+          "剪发与造型",
+          "渐变短发",
+          "染发",
+          "手绘挑染",
+          "胡须与剃须",
+          "头发护理"
+        ],
+        "closed": "false"
+      },
+      {
+        "device": "mobile",
+        "options": [
+          "剪发与造型",
+          "渐变短发",
+          "染发",
+          "手绘挑染",
+          "胡须与剃须",
+          "头发护理"
+        ],
+        "closed": "false"
+      }
+    ],
+    "requiredValidation": "请选择一项服务",
+    "serviceOptions": 6,
+    "keyboard": {
+      "keys": [
+        "ArrowDown",
+        "End",
+        "Enter"
+      ],
+      "selectedLabel": "头发护理",
+      "nativeValue": "treatment"
+    },
+    "stylist": "Ava Laurent",
+    "status": "信息校验通过。演示表单未发送、未保存，也未创建预约。"
+  },
   "viewports": [
     {
       "device": "desktop",

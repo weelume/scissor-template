@@ -7,7 +7,7 @@ import { brand, book, copy, navigation, motionTokens } from '../config'
 import { useScissorHost } from '../host'
 import { Button, href, type ContextProps } from './Primitives'
 import '../theme.css'
-export function Logo({locale,light=false}:{locale:ContextProps['locale'];light?:boolean}) { const host=useScissorHost();const logo=light?host.lightLogo:host.logo;return host.brandName?<span className="sc-brand">{logo&&<img src={logo} alt=""/>}{host.brandName[locale]}</span>:<img className="sc-logo" src="/templates/scissor/images/Lbs1fOGylFeUjTCOXJbuj237LU.png" alt={brand.name[locale]}/> }
+export function Logo({locale,light=false}:{locale:ContextProps['locale'];light?:boolean}) { const host=useScissorHost();const logo=light?host.lightLogo:host.logo;return host.brandName?<span className="sc-brand">{logo&&<img src={logo} alt=""/>}{host.brandName[locale]}</span>:<img className="sc-logo" src={brand.logo} alt={brand.name[locale]}/> }
 export function Shell({locale,basePath,children}:{children:ReactNode}&ContextProps) {
  const [open,setOpen]=useState(false),[scrolled,setScrolled]=useState(false),navRef=useRef<HTMLElement>(null),toggleRef=useRef<HTMLButtonElement>(null)
  const path=usePathname(),router=useRouter(),host=useScissorHost(),reduced=useReducedMotion()
