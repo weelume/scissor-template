@@ -3,9 +3,9 @@
   "format": "git-template-verification",
   "formatVersion": "0.2.0",
   "status": "passed",
-  "checkedAt": "2026-11-02T08:29:23.777Z",
+  "checkedAt": "2026-11-02T08:30:08.896Z",
   "sourceCommit": null,
-  "sourceDigest": "03595af6f38f49f4d6b60294b254167d869f5875531edfe83db3d29bf545b32e",
+  "sourceDigest": "69953186bc1d45dd860117ac9ec986318270c8ae12526deb829b122e2549d408",
   "environment": {
     "platform": "linux (local WSL, Linux filesystem)",
     "arch": "x64",
@@ -73,7 +73,7 @@
       "id": "web",
       "status": "passed",
       "stopped": true,
-      "checkedAt": "2026-11-02T08:29:23.777Z"
+      "checkedAt": "2026-11-02T08:30:08.896Z"
     }
   ],
   "limitations": [

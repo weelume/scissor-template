@@ -13,4 +13,3 @@ export default defineConfig([
     rules: { 'no-irregular-whitespace': ['error', { skipStrings: true, skipTemplates: true, skipJSXText: true }] },
   },
 ])
-
