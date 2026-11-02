@@ -3,10 +3,10 @@ import Link from 'next/link'
 import { motion, useReducedMotion, useScroll, useTransform, type MotionValue } from 'framer-motion'
 import { useRef, type ReactNode } from 'react'
 import type { Copy } from '../config'
-import { motionTokens } from '../config'
+import { motionTokens, templateHref } from '../config'
 import type { TemplateLocale } from '../../../types'
 export type ContextProps = { locale: TemplateLocale; basePath: string }
-export function href(base: string, path = '') { return path.startsWith('#') ? `${base}${path}` : `${base}${path ? '/'+path : ''}` || '/' }
+export const href = templateHref
 export function Button({children,to,secondary=false,...props}: {children: ReactNode;to:string;secondary?:boolean} & Omit<React.ComponentProps<typeof Link>,'href'>) { return <Link {...props} className={`sc-button ${secondary?'sc-secondary':''} ${props.className??''}`} href={to}>{children}</Link> }
 export function Label({number,children}:{number:string;children:ReactNode}) { return <div className="sc-label"><span>{number}</span>{children}</div> }
 export function Reveal({children,delay=0,className='',direction='up'}:{children:ReactNode;delay?:number;className?:string;direction?:'up'|'left'|'right'}) {

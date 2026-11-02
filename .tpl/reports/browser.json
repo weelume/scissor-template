@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-11-02T08:30:08.102Z",
+  "checkedAt": "2026-11-02T09:11:09.080Z",
   "browser": "内置浏览器",
   "viewports": [
     {
@@ -131,6 +131,27 @@
       "reviewSelected": "true"
     }
   ],
+  "deepLinks": {
+    "initial": {
+      "service": "true",
+      "faq": "true"
+    },
+    "closed": {
+      "url": "http://localhost:43302/services?open-service=&open-question=q6&campaign=demo#services",
+      "expanded": "false"
+    },
+    "restored": {
+      "service": "false",
+      "firstService": "false",
+      "faq": "true"
+    },
+    "language": {
+      "url": "http://localhost:43302/en/services?open-service=&open-question=q6&campaign=demo#services",
+      "lang": "en"
+    },
+    "anchorHref": "/#studio",
+    "anchorNavigation": "http://localhost:43302/#studio"
+  },
   "narrow": {
     "viewport": 320,
     "content": 310,
